@@ -1,3 +1,4 @@
+//Rahul gupta
 //Linear Search
 #include<bits/stdc++.h>
 using namespace std;
